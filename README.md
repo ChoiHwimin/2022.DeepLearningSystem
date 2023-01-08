@@ -16,8 +16,8 @@ kaggle로 문제해결 진행
 | 번호 | 구분 | 주제 | 설명 |
 |:---:|:---:|:---:|:---|
 | [1] |합성곱신경망| [이미지 분류 정확도 개선하기](https://www.kaggle.com/competitions/2022-dl-w4-p1)| |
-| [2] |전이학습| [자동차 가격 예측](https://www.kaggle.com/competitions/2021-ai-w3-p2) |  |
-| [3] |전이학습| [당뇨병 유무 예측](https://www.kaggle.com/competitions/2021-ai-w4-p1) |  |
+| [2] |전이학습| [개 고양이 분류 문제](https://www.kaggle.com/competitions/2021-ai-w3-p2) |  |
+| [3] |전이학습| [수화 이미지 분류 전이 학습](https://www.kaggle.com/competitions/2021-ai-w4-p1) |  |
 
 
 # 미니챌린지
